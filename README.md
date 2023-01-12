@@ -1,4 +1,6 @@
-# 741852
-RewriteEngine on
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://weiweiwei011223.github.io/741852/index.html$1 [R,L]
+
+git init 
+remote add origin https://github.com/weiweiwei011223/ddshop4.git
+git add .
+git commit -m "weiweiwei011223" 
+git push origin master 
